@@ -1,1 +1,2 @@
-# Web_AutomationProject
+## Web_AutomationProject_Selenium_&_TestNG
+Automate web interactions with islamicshopdk.com using Java. This project demonstrates the automation of various features of the popular online book retailer, selecting category, veiws anybook, any book  click the oder, shopping cart interactions,book cashout and Coming Soon........................................................................................................................................................
